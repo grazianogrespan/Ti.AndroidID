@@ -1,0 +1,2 @@
+"/Users/grazianogrespan/Documents/Appcelerator_Studio_Workspace/Ti.AndroidID/android/src/ti/android/deviceid/AndroidDeviceIdModule.java"
+"/Users/grazianogrespan/Documents/Appcelerator_Studio_Workspace/Ti.AndroidID/android/build/generated/java/ti/android/deviceid/AndroidDeviceIdBootstrap.java"

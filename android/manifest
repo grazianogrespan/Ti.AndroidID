@@ -1,0 +1,14 @@
+version: 1.0.0
+apiversion: 3
+architectures: armeabi-v7a x86
+description: Native Android module that stores and gets Android UUID and Android_ID.
+author: Graziano Grespan
+license: MIT License
+copyright: Copyright (c) 2017 by Graziano Grespan
+
+# these should not be edited
+name: android_device_id
+moduleid: ti.android.deviceid
+guid: 4cb50456-6c1a-4b51-b9b6-9e69191057f8
+platform: android
+minsdk: 6.0.0.GA
